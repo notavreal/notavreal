@@ -1,8 +1,8 @@
-# 👋 Привет! Я Notav | Hi, I'm Notav
+# 👋 Sup, I'm Notav
 
 ---
 
-### 🛠 Стек технологий | Tech Stack
+### 🛠 Tech Stack
 
 **Languages:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -13,5 +13,5 @@
 
 ---
 
-### 📫 Связь со мной | Contact Me
+### 📫 Contact Me
 * **Discord:** `@Notav`
